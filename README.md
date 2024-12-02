@@ -1,1 +1,1 @@
-my projict 
+#Project HTML & CSS for Chocolate Shop
